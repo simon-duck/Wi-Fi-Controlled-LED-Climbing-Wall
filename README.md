@@ -3,7 +3,7 @@
 
 A WiFi-controlled, web-based LED matrix designed for interactive climbing walls. This project uses an ESP-32 microcontroller to host a web server, allowing users to control an RGB LED grid embedded in a climbing wall from any browser-enabled device connected to the same network.
 
-[A short video of the prototype in operation](https://youtube.com/shorts/ybT7Ar16RoI?feature=share)
+[A short video of the prototype in operation](https://youtu.be/ybT7Ar16RoI)
 
 ## Features
 
