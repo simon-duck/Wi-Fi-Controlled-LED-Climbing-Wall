@@ -62,11 +62,7 @@ This project combines software, hardware, and firmware to create an interactive 
 
 Feel free to fork this repository, implement new features, fix bugs, or submit suggestions via pull requests or issues.
 
-## License
 
-This project is licensed under the MIT License.
 
----
-
-Made with 💡 and 🧗‍♂️ by [the-duckchild](https://github.com/simon-duck)
+Made with 💡 and 🧗‍♂️ by [simon-duck](https://github.com/simon-duck)
 ````
