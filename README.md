@@ -7,7 +7,7 @@ A WiFi-controlled, web-based LED matrix designed for interactive climbing walls.
 ## Features
 
 - **Web Interface:** Intuitive web control panel served directly from the ESP-32.
-- **Customizable Patterns:** Select, create, or randomize climbing routes, challenges, or light patterns.
+- **Customizable Patterns:** Create customised climbing routes.
 - **Real-Time Updates:** Instantly apply lighting changes from your phone or laptop.
 - **Standalone Operation:** Once started, the ESP-32 acts as both the LED controller and the wireless access point or WiFi client.
 - **Scalable:** Works for walls of various sizes by adjusting the code for your matrix dimensions.
