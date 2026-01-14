@@ -1,4 +1,3 @@
-````markdown
 # Web-Controlled LED Matrix
 
 A WiFi-controlled, web-based LED matrix designed for interactive climbing walls. This project uses an ESP-32 microcontroller to host a web server, allowing users to control an RGB LED grid embedded in a climbing wall from any browser-enabled device connected to the same network.
@@ -69,5 +68,5 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with 💡 and 🧗‍♂️ by [the-duckchild](https://github.com/the-duckchild)
+Made with 💡 and 🧗‍♂️ by [the-duckchild](https://github.com/simon-duck)
 ````
