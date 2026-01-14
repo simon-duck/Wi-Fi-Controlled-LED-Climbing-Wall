@@ -11,7 +11,7 @@ A WiFi-controlled, web-based LED matrix designed for interactive climbing walls.
 - **Real-Time Updates:** Instantly apply lighting changes from your phone or laptop.
 - **Standalone Operation:** Once started, the ESP-32 acts as both the LED controller and the wireless access point or WiFi client.
 - **Scalable:** Works for walls of various sizes by adjusting the code for your matrix dimensions.
-- **Efficient Hardware:** Runs on a cost-effective ESP-32 and commercially available LED strips (WS2812/Neopixel or compatible).
+- **Efficient Hardware:** Runs on a cost-effective ESP-32.
 
 ## Project Overview
 
